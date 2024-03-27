@@ -6,6 +6,9 @@ const mapped = arr.map((item)=>{
      return console.log(item)
 })
 
+
+console.log("yemetekudasa",ajsjdajdhasd);
+=======
 const arr1 = [2,4,5,6,6]
 let sum = 0
 for (let i = 0; i < arr1.length; i++) {
@@ -14,3 +17,4 @@ for (let i = 0; i < arr1.length; i++) {
 
 
 console.log("yemetekudasa");
+
