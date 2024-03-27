@@ -3,4 +3,4 @@ const mapped = arr.map((item)=>{
      return console.log(item)
 })
 
-console.log("yemetekudasa");
+console.log("yemetekudasa",ajsjdajdhasd);
